@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\bin\Debug\AnalizadorPracticaCorta.exe.config
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\bin\Debug\AnalizadorPracticaCorta.exe
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\bin\Debug\AnalizadorPracticaCorta.pdb
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta_MarkupCompile.cache
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta_MarkupCompile.lref
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.g.resources
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.exe
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\AnalizadorPracticaCorta.pdb
+C:\Users\Usuario\source\repos\AnalizadorPracticaCorta\AnalizadorPracticaCorta\obj\Debug\MainWindow.baml
